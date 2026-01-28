@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Brianne! <br/><a href=https://www.linkedin.com/in/brianne-young0/> Aspiring IT Support Specialist</a>, Cybersecurity Professional</a> <a ></a></h1>
 
-<!--
-**brianne-y/brianne-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Featured Project:</h2>
 
-Here are some ideas to get you started:
+- <b>ITSM & Ticket Deflection Lab (Jira Service Management)</b>
+  - [ITSM & Ticket Deflection Lab](https://github.com/brianne-y/jira-confluence-itsm-lab)
+---
+- Configured an end-to-end IT Service Management ecosystem using Jira Service Management.
+   
+- Implemented a "Shift-Left" strategy by integrating a Confluence Knowledge Base for ticket deflection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Designed custom request types and automated workflows to streamline incident resolution.
+
+<h2> 🤳 Connect with me:</h2>
+
+linkedin: https://linkedin.com/in/brianne-young0/
