@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brianne! <br/><a href=https://www.linkedin.com/in/brianne-young0/> Aspiring IT Support Specialist</a>, Cybersecurity Professional</a> <a ></a></h1>
+<h1>Hi, I'm Brianne! <br/><a href=https://www.linkedin.com/in/brianne-young0/> IT Support Specialist</a>, Cybersecurity Professional</a> <a ></a></h1>
 
 <h2>👨‍💻 Featured Project:</h2>
 
