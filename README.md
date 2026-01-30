@@ -12,7 +12,7 @@
 
 ### [Jira & Confluence: My "Help Desk" Lab](https://github.com/brianne-y/jira-confluence-itsm-lab)
 * **The Goal:** I created a professional Help Desk system where users can ask for help when their tech breaks.
-* **What I Learned:** I used a "Shift-Left" strategy—which is just a fancy way of saying I wrote helpful "How-to" guides in **Confluence** so users can fix small problems themselves.
+* **What I Learned:** I used a "Shift-Left" strategy by writing a helpful "How-to" guide in **Confluence** so users can fix small problems themselves.
 * **Efficiency:** I set up timers (SLAs) to make sure I finish my work on time and built automated workflows so the system stays organized.
 
 ---
