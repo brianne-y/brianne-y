@@ -1,5 +1,5 @@
 # Hi, I'm Brianne! 
-**IT Support Specialist** | **Learning how to help people and secure systems**
+# IT Support Specialist | Learning how to help people and secure systems!
 
 ---
 
