@@ -1,21 +1,36 @@
-# Hi, I'm Brianne! 
-# IT Support Specialist | Learning how to help people and secure systems!
-
+# 👋 Brianne Young
+**IT Support Specialist | Help Desk | Active Directory | ServiceNow**
 ---
+## About Me
+IT support professional with hands-on experience in user account management,
+ticketing systems, and network troubleshooting. Currently pursuing CompTIA
+Security+ and Okta Certified Professional certifications.
+## Technical Projects
+### [ServiceNow Help Desk Simulation](link)
+Configured a ServiceNow ITSM instance simulating a corporate help desk
+environment. Created incident categories, SLA definitions, and resolved
+10 realistic support tickets with full troubleshooting documentation.
+Built a Knowledge Base with resolution guides for recurring issues.
+**Tools:** ServiceNow ITSM, Incident Management, SLA Management,
+Knowledge Base
 
-## 👨‍💻 Featured Projects
+### [Active Directory User Management Lab](https://github.com/brianne-y/azure-active-directory-lab)
+Deployed a Windows Server 2022 domain controller in Azure and practiced
+the full employee IT lifecycle: account provisioning, security group
+assignments, Group Policy configuration, and documented
+onboarding/offboarding procedures.
+**Tools:** Windows Server 2022, Active Directory (ADUC), Azure,
+Group Policy (GPO)
+### [Jira Service Management Help Desk Simulation](https://github.com/brianne-y/jira-confluence-itsm-lab)
+Configured a Jira Service Management instance simulating an MSP help desk.
+Managed incident lifecycle from intake through resolution within SLA
+windows. Authored SOPs and Knowledge Base articles for common
+troubleshooting workflows.
+**Tools:** Jira Service Management, Confluence, SLA Management
+## Certifications (In Progress)
+- Okta Certified Professional (Expected 2026)
+- Okta Certified Administrator (Expected 2026)
+- CompTIA Security+ (Expected 2026)
 
-### [Azure & Active Directory: My "Company in the Cloud" Lab](https://github.com/brianne-y/azure-active-directory-lab)
-* **The Goal:** I built a mini-corporate office using Microsoft Azure. I set up a server to act as the "brain" of the network and managed a group of fake users.
-* **What I Learned:** I practiced the full "User Lifecycle" which is basically the process of hiring someone (onboarding), giving them the right "keys" to the folders they need (**Least Privilege**), and making sure they can log in safely.
-* **Problem Solving:** I spent time fixing login errors and setting up "Office Rules" (GPOs) to keep the environment secure.
-
-### [Jira & Confluence: My "Help Desk" Lab](https://github.com/brianne-y/jira-confluence-itsm-lab)
-* **The Goal:** I created a professional Help Desk system where users can ask for help when their tech breaks.
-* **What I Learned:** I used a "Shift-Left" strategy by writing a helpful "How-to" guide in **Confluence** so users can fix small problems themselves.
-* **Efficiency:** I set up timers (SLAs) to make sure I finish my work on time and built automated workflows so the system stays organized.
-
----
-
-## 🤳 Connect with me:
-**LinkedIn:** [linkedin.com/in/brianne-young0/](https://linkedin.com/in/brianne-young0/)
+## Connect
+- [LinkedIn](https://linkedin.com/in/brianne-young0)
