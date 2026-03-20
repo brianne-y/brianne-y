@@ -34,5 +34,5 @@ troubleshooting workflows.
 - Okta Certified Administrator (Expected 2026)
 - CompTIA Security+ (Expected 2026)
 
-## Connect
+## Let's Connect!
 - [LinkedIn](https://linkedin.com/in/brianne-young0)
