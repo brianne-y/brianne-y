@@ -14,6 +14,15 @@ Built a Knowledge Base with resolution guides for recurring issues.
 
 **Tools:** ServiceNow ITSM, Incident Management, SLA Management, Knowledge Base
 
+### [Network Troubleshooting Lab](https://github.com/brianne-y/network-troubleshooting-lab)
+Simulated 5 common connectivity failures in an Azure VM environment —
+DNS misconfigurations, disabled adapters, incorrect subnet assignments,
+latency diagnosis, and DHCP issues. Diagnosed and resolved each using
+ipconfig, ping, nslookup, and tracert. Created a troubleshooting
+flowchart documenting the systematic diagnostic process.
+
+**Tools:** Microsoft Azure, Windows 11, Command Prompt (ipconfig, ping, nslookup, tracert, netstat)
+
 ### [Active Directory User Management Lab](https://github.com/brianne-y/azure-active-directory-lab)
 Deployed a Windows Server 2022 domain controller in Azure and practiced
 the full employee IT lifecycle: account provisioning, security group
