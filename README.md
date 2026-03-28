@@ -1,5 +1,5 @@
 # 👋 Brianne Young
-**IT Support Specialist | Help Desk | Active Directory | ServiceNow | Network Troubleshooting**
+**IT Support Specialist | Help Desk | Active Directory | ServiceNow | Network Troubleshooting | Mobile Device Management**
 ---
 ## About Me
 IT support professional with hands-on experience in user account management,
