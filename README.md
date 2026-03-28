@@ -3,7 +3,7 @@
 ---
 ## About Me
 IT support professional with hands-on experience in user account management,
-ticketing systems, and network troubleshooting. Currently pursuing CompTIA
+ticketing systems, mobile device management, and network troubleshooting. Currently pursuing CompTIA
 Security+ and Okta Certified Professional certifications.
 ## Technical Projects
 ### [ServiceNow Help Desk Simulation](https://github.com/brianne-y/servicenow-helpdesk-lab) 
