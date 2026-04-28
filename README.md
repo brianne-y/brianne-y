@@ -1,10 +1,8 @@
 # 👋 Brianne Young
-**IT Support Specialist | Help Desk | Active Directory | ServiceNow | Network Troubleshooting | Mobile Device Management**
+  Cloud Engineer | AWS | Terraform | IAM | Network Troubleshooting 
 ---
 ## About Me
-IT support professional with hands-on experience in user account management,
-ticketing systems, mobile device management, and network troubleshooting. Currently pursuing CompTIA
-Security+ and Okta Certified Professional certifications.
+Cloud engineer with a strong foundation in AWS infrastructure, network security, and identity and access management. Hands-on experience designing and deploying cloud environments from scratch, including custom VPCs, EC2 instances, S3 storage with encryption and lifecycle policies, and IAM with least privilege roles and security groups. Currently pursuing CompTIA Security+, Terraform and AWS Certifications.
 ## Technical Projects
 ### [ServiceNow Help Desk Simulation](https://github.com/brianne-y/servicenow-helpdesk-lab) 
 Configured a ServiceNow ITSM instance simulating a corporate help desk
@@ -39,9 +37,11 @@ troubleshooting workflows.
 **Tools:** Jira Service Management, Confluence, SLA Management
 
 ## Certifications (In Progress)
-- Okta Certified Professional (Expected 2026)
-- Okta Certified Administrator (Expected 2026)
+- AWS Certified Cloud Practitioner (Expected 2026)
+- AWS Solutions Architect Associate (Expected 2026) 
+- Hashicorp Terraform Associate (Expected 2026)
 - CompTIA Security+ (Expected 2026)
+- Okta Certified Professional (Expected 2026)
 
 ## Let's Connect!
 - [LinkedIn](https://linkedin.com/in/brianne-young0)
