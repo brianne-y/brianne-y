@@ -1,47 +1,53 @@
-# 👋 Brianne Young
-  Cloud Engineer | AWS | Terraform | IAM | Network Troubleshooting 
+# Hi, I'm Brianne 👋
+
+## Cloud Engineer | AWS | Terraform | Docker | Linux
+
+I'm focused on building cloud infrastructure on AWS with an emphasis on 
+security, automation, and scalability. Based in the DMV area, actively 
+networking in the local cloud and tech community and targeting roles in 
+cloud engineering within the DC/Maryland corridor.
+
 ---
-## About Me
-Cloud engineer with a strong foundation in AWS infrastructure, network security, and identity and access management. Hands-on experience designing and deploying cloud environments from scratch, including custom VPCs, EC2 instances, S3 storage with encryption and lifecycle policies, and IAM with least privilege roles and security groups. Currently pursuing CompTIA Security+, Terraform and AWS Certifications.
-## Technical Projects
-### [ServiceNow Help Desk Simulation](https://github.com/brianne-y/servicenow-helpdesk-lab) 
-Configured a ServiceNow ITSM instance simulating a corporate help desk
-environment. Created incident categories, SLA definitions, and resolved
-10 realistic support tickets with full troubleshooting documentation.
-Built a Knowledge Base with resolution guides for recurring issues.
 
-**Tools:** ServiceNow ITSM, Incident Management, SLA Management, Knowledge Base
+## 🛠️ Tech Stack
+- **Cloud:** AWS (EC2, S3, VPC, IAM, RDS, CloudWatch)
+- **IaC:** Terraform
+- **Containers:** Docker
+- **Scripting:** Python (basics), Bash
+- **OS:** Linux (Ubuntu, Amazon Linux)
+- **Version Control:** Git & GitHub
 
-### [Network Troubleshooting Lab](https://github.com/brianne-y/network-troubleshooting-lab)
-Simulated 5 common connectivity failures in an Azure VM environment —
-DNS misconfigurations, disabled adapters, incorrect subnet assignments,
-latency diagnosis, and DHCP issues. Diagnosed and resolved each using
-ipconfig, ping, nslookup, and tracert. Created a troubleshooting
-flowchart documenting the systematic diagnostic process.
+---
 
-**Tools:** Microsoft Azure, Windows 11, Command Prompt (ipconfig, ping, nslookup, tracert, netstat)
+## 📁 Featured Projects
+> AWS infrastructure projects actively in development. 
+> First project deploying soon — check back for updates.
 
-### [Active Directory User Management Lab](https://github.com/brianne-y/azure-active-directory-lab)
-Deployed a Windows Server 2022 domain controller in Azure and practiced
-the full employee IT lifecycle: account provisioning, security group
-assignments, Group Policy configuration, and documented
-onboarding/offboarding procedures.
+---
 
-**Tools:** Windows Server 2022, Active Directory (ADUC), Azure, Group Policy (GPO)
-### [Jira Service Management Help Desk Simulation](https://github.com/brianne-y/jira-confluence-itsm-lab)
-Configured a Jira Service Management instance simulating an MSP help desk.
-Managed incident lifecycle from intake through resolution within SLA
-windows. Authored SOPs and Knowledge Base articles for common
-troubleshooting workflows.
+## 📚 Currently Learning
+- AWS console hands-on labs — EC2, VPC, IAM, S3
+- Linux fundamentals via command line on live EC2 instances
+- Terraform fundamentals — Infrastructure as Code
+- Docker and containerization basics
+- Python scripting for cloud automation
 
-**Tools:** Jira Service Management, Confluence, SLA Management
+---
 
-## Certifications (In Progress)
-- AWS Certified Cloud Practitioner (Expected 2026)
-- AWS Solutions Architect Associate (Expected 2026) 
-- Hashicorp Terraform Associate (Expected 2026)
-- CompTIA Security+ (Expected 2026)
-- Okta Certified Professional (Expected 2026)
+## 📜 Certifications
+- [ ] AWS Certified Cloud Practitioner (CLF-C02) — In Progress
+- [ ] AWS Solutions Architect Associate (SAA-C03) — Next Target
 
-## Let's Connect!
-- [LinkedIn](https://linkedin.com/in/brianne-young0)
+---
+
+## 🎯 Goals
+- Build 3 production-quality AWS portfolio projects
+- Earn AWS Cloud Practitioner and Solutions Architect certifications
+- Land a cloud engineering role in the DMV area
+- Attend AWS Summit Washington DC — June 30/July 1, 2026
+
+---
+
+## 🌐 Connect
+- [LinkedIn](https://www.linkedin.com/in/brianne-young0/)
+- Based in Baltimore, MD | Open to DMV area roles
