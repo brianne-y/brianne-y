@@ -1,19 +1,27 @@
 # Hi, I'm Brianne 👋
+
 ## Cloud Engineer | AWS | Terraform | Docker | Linux
-I'm focused on building cloud infrastructure on AWS with an emphasis on 
-security, automation, and scalability. Based in the DMV area, actively 
-networking in the local cloud and tech community and targeting roles in 
-cloud engineering within the DC/Maryland corridor.
+
+Cloud Engineer based in the DMV area building hands-on AWS 
+infrastructure with a security-first approach. Currently working 
+through a three-project portfolio covering static site architecture, 
+cloud migration with IaC, and containerized CI/CD pipelines. 
+Pursuing AWS Cloud Practitioner and Solutions Architect Associate 
+certifications. Open to cloud engineering roles in the DC/Maryland 
+corridor.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Cloud:** AWS (EC2, S3, VPC, IAM, RDS, CloudWatch)
-- **IaC:** Terraform
-- **Containers:** Docker
-- **Scripting:** Python (basics), Bash
-- **OS:** Linux (Ubuntu, Amazon Linux)
-- **Version Control:** Git & GitHub
+
+- **Cloud:** AWS (EC2, S3, VPC, IAM, RDS, CloudFront, CloudWatch, 
+  ECS, ECR, Lambda, Route 53, SNS, SQS, CloudTrail)
+- **IaC:** Terraform, AWS CloudFormation
+- **Containers:** Docker, Amazon ECS Fargate
+- **CI/CD:** GitHub Actions, AWS CodePipeline
+- **Scripting:** Python, Bash
+- **OS:** Linux (Amazon Linux, Ubuntu) — SSH, CLI administration
+- **Version Control:** Git, GitHub
 
 ---
 
@@ -27,29 +35,15 @@ cloud engineering within the DC/Maryland corridor.
 
 ---
 
-## 📚 Currently Learning
-- AWS console hands-on labs — EC2, VPC, IAM, S3
-- Linux fundamentals via command line on live EC2 instances
-- Terraform fundamentals — Infrastructure as Code
-- Docker and containerization basics
-- Python scripting for cloud automation
-
----
-
 ## 📜 Certifications
+
 - [ ] AWS Certified Cloud Practitioner (CLF-C02) — In Progress
 - [ ] AWS Solutions Architect Associate (SAA-C03) — Next Target
-
----
-
-## 🎯 Goals
-- Build 3 production-quality AWS portfolio projects
-- Earn AWS Cloud Practitioner and Solutions Architect certifications
-- Land a cloud engineering role in the DMV area
-- Attend AWS Summit Washington DC — June 30/July 1, 2026
+- [ ] CompTIA Security+
 
 ---
 
 ## 🌐 Connect
+
 - [LinkedIn](https://www.linkedin.com/in/brianne-young0/)
-- Based in Baltimore, MD | Open to DMV area roles
+- Baltimore, MD | Open to DMV area roles
