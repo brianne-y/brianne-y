@@ -1,7 +1,5 @@
 # Hi, I'm Brianne 👋
-
 ## Cloud Engineer | AWS | Terraform | Docker | Linux
-
 I'm focused on building cloud infrastructure on AWS with an emphasis on 
 security, automation, and scalability. Based in the DMV area, actively 
 networking in the local cloud and tech community and targeting roles in 
@@ -20,8 +18,12 @@ cloud engineering within the DC/Maryland corridor.
 ---
 
 ## 📁 Featured Projects
-> AWS infrastructure projects actively in development. 
-> First project deploying soon — check back for updates.
+
+| Project | Status | Stack |
+|---|---|---|
+| [Secure Static Website Hosting](https://github.com/brianne-y/aws-static-website-hosting) | 🔨 In Progress | S3, CloudFront, IAM, EC2, CloudWatch |
+| [Cloud Migration — Three-Tier Web App Stack](https://github.com/brianne-y/aws-three-tier-web-app) | 📋 Planned | Terraform, EC2, RDS, ALB, VPC |
+| [Containerized Microservice with CI/CD Pipeline](https://github.com/brianne-y/aws-cicd-pipeline) | 📋 Planned | Docker, ECS Fargate, GitHub Actions, ECR |
 
 ---
 
