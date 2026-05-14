@@ -29,7 +29,7 @@ corridor.
 
 | Project | Status | Stack |
 |---|---|---|
-| [Secure Static Website Hosting](https://github.com/brianne-y/aws-static-website-hosting) | 🔨 In Progress | S3, CloudFront, IAM, EC2, CloudWatch |
+| [Secure Static Website Hosting](https://github.com/brianne-y/aws-static-website-hosting) | ✅ Complete | S3, CloudFront, IAM, EC2, CloudWatch |
 | [Cloud Migration — Three-Tier Web App Stack](https://github.com/brianne-y/aws-three-tier-web-app) | 📋 Planned | Terraform, EC2, RDS, ALB, VPC |
 | [Containerized Microservice with CI/CD Pipeline](https://github.com/brianne-y/aws-cicd-pipeline) | 📋 Planned | Docker, ECS Fargate, GitHub Actions, ECR |
 
