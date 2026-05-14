@@ -38,8 +38,8 @@ corridor.
 ## 📜 Certifications
 
 - [ ] AWS Certified Cloud Practitioner (CLF-C02) — In Progress
-- [ ] AWS Solutions Architect Associate (SAA-C03) — Next Target
-- [ ] CompTIA Security+
+- [ ] AWS Solutions Architect Associate (SAA-C03) — In Progress
+- [ ] CompTIA Security+ 
 
 ---
 
