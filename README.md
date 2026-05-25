@@ -42,10 +42,10 @@ in the DC/Maryland corridor.
 
 ## 🐧 Root to Cloud — 30 Days of Linux
 
-Building a real foundation in Linux administration through 
-hands-on labs executed on live Amazon Linux EC2 instances. 
-Every session documented publicly! Commands, concepts, 
-troubleshooting, and real-world cloud engineering context.
+Building a real foundation in Linux administration by studying and practicing 
+directly on live Amazon Linux EC2 instances. Every session 
+documented publicly! Commands, concepts, troubleshooting, 
+and real-world cloud engineering context.
 
 Because almost no production cloud work happens in a GUI. 
 It happens in the terminal.
