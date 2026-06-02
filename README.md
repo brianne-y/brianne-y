@@ -40,12 +40,15 @@ in the DC/Maryland corridor.
 
 ---
 
-## 🐧 Root to Cloud — 30 Days of Linux
+## 🐧 Root to Cloud: 30 Days of Linux
 
-Building a real foundation in Linux administration by studying and practicing 
-directly on live Amazon Linux EC2 instances. Every session 
-documented publicly! Commands, concepts, troubleshooting, 
-and real-world cloud engineering context.
+Linux is the operating system running underneath nearly every 
+cloud server, container, and production workload in existence. 
+Engineers who cannot navigate a terminal confidently cannot 
+do the job. This is a structured 30 day public commitment to 
+building that foundation, studying and practicing directly on 
+live Amazon Linux EC2 instances with every session documented 
+along the way.
 
 Because almost no production cloud work happens in a GUI. 
 It happens in the terminal.
@@ -54,11 +57,28 @@ It happens in the terminal.
 
 ---
 
+## 🐳 Diving into Docker
+Containerization is not optional in modern cloud engineering. 
+Docker is the foundation of everything from CI/CD pipelines 
+to ECS deployments to Kubernetes workloads. Companies depend 
+on containerized workloads to ship faster, scale reliably, 
+and reduce infrastructure overhead. This is a structured 
+deep dive covering basic commands, networking, storage, 
+registries, and container orchestration, with every concept 
+connected to real AWS context and documented publicly.
+
+Every lab practiced hands-on. Every concept documented 
+with real cloud engineering impact in mind.
+
+📂 [Follow the journey → diving-into-docker](https://github.com/brianne-y/diving-into-docker)
+
+---
+
+
 ## 📜 Certifications
 
-- [ ] AWS Certified Cloud Practitioner (CLF-C02) — In Progress
-- [ ] AWS Solutions Architect Associate (SAA-C03) — Next Target
-- [ ] CompTIA Security+
+- [ ] AWS Solutions Architect Associate (SAA-C03) — In Progress
+- [ ] CompTIA Security+ — In Progress 
 
 ---
 
