@@ -32,7 +32,7 @@ in the DC/Maryland corridor.
 |---|---|---|
 | [Secure Static Website Hosting](https://github.com/brianne-y/aws-static-website-hosting) | ✅ Complete | S3, CloudFront, IAM, EC2, CloudWatch |
 | [Cloud Migration — Three-Tier Web App Stack](https://github.com/brianne-y/aws-three-tier-web-app) | ✅ Complete  | Terraform, EC2, RDS, ALB, VPC |
-| [Containerized Microservice with CI/CD Pipeline](https://github.com/brianne-y/aws-cicd-pipeline) | 🔨 In Progress | Docker, ECS Fargate, GitHub Actions, ECR |
+| [Containerized Microservice with CI/CD Pipeline](https://github.com/brianne-y/aws-cicd-pipeline) | ✅ Complete | Docker, ECS Fargate, GitHub Actions, ECR |
 | [Cloud Security Hardening and Compliance Audit](https://github.com/brianne-y/aws-security-hardening) | 📋 Planned | IAM, Security Hub, GuardDuty, Config, CloudTrail |
 | [Python and Lambda Cost Optimization Automation](https://github.com/brianne-y/aws-cost-optimization) | 📋 Planned | Lambda, Python, CloudWatch, Cost Explorer, SNS |
 | [Multi-Tier VPC Architecture with High Availability](https://github.com/brianne-y/aws-vpc-high-availability) | 📋 Planned | VPC, ALB, Auto Scaling, RDS Multi-AZ, Route 53 |
