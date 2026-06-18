@@ -31,10 +31,10 @@ in the DC/Maryland corridor.
 | Project | Status | Stack |
 |---|---|---|
 | [Secure Static Website Hosting](https://github.com/brianne-y/aws-static-website-hosting) | ✅ Complete | S3, CloudFront, IAM, EC2, CloudWatch |
-| [Cloud Migration — Three-Tier Web App Stack](https://github.com/brianne-y/aws-three-tier-web-app) | ✅ Complete  | Terraform, EC2, RDS, ALB, VPC |
+| [Cloud Migration — Three-Tier Web App Stack](https://github.com/brianne-y/aws-three-tier-web-app) | ✅ Complete | Terraform, EC2, RDS, ALB, VPC |
 | [Containerized Microservice with CI/CD Pipeline](https://github.com/brianne-y/aws-cicd-pipeline) | ✅ Complete | Docker, ECS Fargate, GitHub Actions, ECR |
-| [Cloud Security Hardening and Compliance Audit](https://github.com/brianne-y/aws-security-hardening) | 🔨 In Progress | IAM, Security Hub, GuardDuty, Config, CloudTrail |
-| [Python and Lambda Cost Optimization Automation](https://github.com/brianne-y/aws-cost-optimization) | 📋 Planned | Lambda, Python, CloudWatch, Cost Explorer, SNS |
+| [Cloud Security Hardening and Compliance Audit](https://github.com/brianne-y/aws-security-hardening) | ✅ Complete | IAM, Security Hub, GuardDuty, Config, CloudTrail |
+| [Python and Lambda Cost Optimization Automation](https://github.com/brianne-y/aws-cost-optimization) | 🔨 In Progress | Lambda, Python, CloudWatch, Cost Explorer, SNS |
 | [Multi-Tier VPC Architecture with High Availability](https://github.com/brianne-y/aws-vpc-high-availability) | 📋 Planned | VPC, ALB, Auto Scaling, RDS Multi-AZ, Route 53 |
 | [Full-Stack Cloud Engineering Capstone](https://github.com/brianne-y/aws-capstone) | 📋 Planned | Full AWS Stack, Terraform, Docker, CI/CD, Python |
 
